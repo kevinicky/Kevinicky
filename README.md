@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Nicky Setiawan</h1>
-<h3 align="center">I Have passion in code</h3>
+<h3 align="center">I have passion in code</h3>
 
 - 🔭 I'm currently working on **banking industry**
 
