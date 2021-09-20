@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **banking industry**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Golang**
 
 - ⚡ Fun fact **I'm learning about competitive programming right now**
 
