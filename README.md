@@ -51,14 +51,14 @@
   <a href="https://github.com/kevinicky?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinicky&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinicky&layout=compact&show_icons=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/kevinicky?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=kevinicky&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=Kevinicky&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
     />
   </a>
 </p>
