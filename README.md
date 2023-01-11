@@ -47,19 +47,6 @@
   <a href="https://github.com/kevinicky?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinicky&layout=compact&show_icons=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/kevinicky?tab=repositories">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=kevinicky&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/kevinicky?tab=repositories">
-    <img
-      align="center"
       height="165"
       src="https://streak-stats.demolab.com?user=kevinicky&theme=tokyonight_duo&hide_border=true"
     />
