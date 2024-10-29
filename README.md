@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin Nicky Setiawan</h1>
 <h3 align="center">I have passion in code</h3>
 
-- 🔭 I'm currently working on **Software House Industry**
+- 🔭 I'm currently working on **Financial Industry**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Java**
 
 
 <h3 align="left">Connect with me:</h3>
