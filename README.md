@@ -15,30 +15,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	</a>
-	<a href="https://www.cprogramming.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-	</a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 	</a> 
-	<a href="https://firebase.google.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-	</a>
 	</a>
 	<a href="https://www.golang.org" target="_blank">
-		<img src="./assets/Go-Logo/SVG/Go-Logo_White.svg" alt="go_logo" width="40" height="40"/>
-	</a> 
-	<a href="https://www.mongodb.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
 	</a>
-	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+	<a href="https://postgresql.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
 	</a> 
-	<a href="https://www.oracle.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+	<a href="https://java.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ 	<a href="https://spring.io" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+	</a>
+	 <a href="https://kubernetes.io" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
 	</a>
 </p>
 
